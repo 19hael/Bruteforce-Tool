@@ -1,0 +1,6 @@
+requests
+colorama
+urllib3
+pynput
+psutil
+fake_useragent
