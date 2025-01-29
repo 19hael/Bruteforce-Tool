@@ -10,8 +10,8 @@ from datetime import datetime
 from itertools import cycle
 
 colorama.init()
-CARPETA_LICENCIAS = "ruta/a/carpeta/licencias"
-CARPETA_REGISTROS = "ruta/a/carpeta/registros"
+CARPETA_LICENCIAS = "https://drive.google.com/drive/folders/1NVJIcM9ynjfhPOsqfVsMo6kG6AR2UK-w"
+CARPETA_REGISTROS = "https://drive.google.com/drive/folders/1NVJIcM9ynjfhPOsqfVsMo6kG6AR2UK-w"
 ARCHIVO_PASSWORDS = "passwords.txt"
 
 class ProxyScraper(scrapy.Spider):
